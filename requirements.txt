@@ -1,0 +1,2 @@
+For this basic version, no external libraries are required. 
+However, if you plan to expand the game with features like a GUI or AI opponent, you might include libraries such as tkinter or pygame.

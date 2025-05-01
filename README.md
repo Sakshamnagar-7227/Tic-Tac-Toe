@@ -1,2 +1,19 @@
-# Tic-Tac-Toe
-A simple command-line Tic Tac Toe game built in Python for two players. This project demonstrates the use of 2D arrays, input validation, game loops, and win/draw logic — all packed into a neat and interactive terminal experience.
+# 🎮 Tic Tac Toe
+
+A simple command-line Tic Tac Toe game implemented in Python.
+
+## Features
+
+- Two-player mode
+- Input validation
+- Win and tie detection
+- Clear and interactive board display
+
+## How to Run
+
+1. Ensure you have Python 3 installed.
+2. Clone the repository:
+3. Navigate to the project directory:
+4. Run the game:
+
+Enjoy the game!
